@@ -4,7 +4,7 @@ Jinja2
 MarkupSafe
 Werkzeug
 numpy
-python3-scipy 
+scipy 
 nltk
 scikit-learn
 pandas
